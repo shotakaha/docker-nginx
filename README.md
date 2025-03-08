@@ -23,6 +23,12 @@ NAME                STATUS              CONFIG FILES
 docker-nginx        running(1)          ./compose.yaml
 ```
 
+## 表示
+
+```console
+$ open http://localhost:8080
+```
+
 ## 終了
 
 ```console
